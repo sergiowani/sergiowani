@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<div>
+<h1>Hi! I am <a href="https://sergiowani.github.io/">Sergio</a>👋</h1>
+### About me
+</div>
 <!--
 **sergiowani/sergiowani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
