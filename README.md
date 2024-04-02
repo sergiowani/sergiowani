@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I am <a href="https://sergiowani.github.io/">Sergio</a>👋</h1>
 <img src="https://sergiowani.github.io/public/images/banner.png" />
-[<a href=""></a>](https://img.shields.io/badge/LinkedIn-%2357AB32?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsergiowani%2F
-)
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%2357AB32?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsergiowani%2F">
+
 
 
 <!--
