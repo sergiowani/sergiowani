@@ -6,6 +6,24 @@
   🟨I am passionate about the world of programming because it allows me to create things out of nothing.🟥
 </p>
 
+## Skills I have!
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23F8BA42?logo=html5">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%23E03EA4?logo=css3">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SASS-%2397D742?logo=sass">
+  <img alt="Static Badge" src="https://img.shields.io/badge/BOOTSTRAP-%23FFEE9B?logo=bootstrap">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-%23FFFFFF?logo=typescript">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23F8BA43?logo=javascript">
+  <img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-%23E03EA4?logo=nodedotjs">
+  <img alt="Static Badge" src="https://img.shields.io/badge/EXPRESS-%2397D742?logo=express">
+  <img alt="Static Badge" src="https://img.shields.io/badge/REACT-%2357AB32?logo=react">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-%23FFFFFF?logo=mysql">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GIT-%23F8BA43?logo=git">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CHAT%20GPT-%235DAB36?logo=openai">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TRELLO-%23F8BA43?logo=trello">
+  <img alt="Static Badge" src="https://img.shields.io/badge/FIGMA-%23FAEB9A?logo=figma">
+</div>
+
 ## Get in Touch! 📫
 <div align="center">
   <a href="https://www.linkedin.com/in/sergiowani/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn Sergio-%2357AB32?style=flat&logo=linkedin"></a>
