@@ -3,7 +3,9 @@
 
 <hr/>
 ## About me! 😉
-🟨I am passionate about the world of programming because it allows me to create things out of nothing.🟥
+<p>
+  🟨I am passionate about the world of programming because it allows me to create things out of nothing.🟥
+</p>
 <hr/>
 
 ## Get in Touch! 📫
