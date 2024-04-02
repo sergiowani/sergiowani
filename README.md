@@ -1,27 +1,21 @@
 <img src="https://sergiowani.github.io/public/images/banner.png" />
 <h1 align="center">Hi! I am <a href="https://sergiowani.github.io/">Sergio</a>👋</h1>
 
-<hr/>
 ## About me! 😉
 <p>
   🟨I am passionate about the world of programming because it allows me to create things out of nothing.🟥
 </p>
-<hr/>
 
 ## Get in Touch! 📫
 <div align="center">
   <a href="https://www.linkedin.com/in/sergiowani/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn Sergio-%2357AB32?style=flat&logo=linkedin"></a>
   <a href="mailto:sergiowani@outlook.es" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/sergiowani%40outlook.es-%23F8BA42?logo=maildotru"></a>
 </div>
-<hr/>
 
 ## GitHub Stats! 📊
 [![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergiowani&show_icons=true&theme=merko)](https://github.com/sergiowani/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiowani&layout=compact&theme=merko)](https://github.com/sergiowani/github-readme-stats)
 
-<hr/>
 ## Thank You! 🤙
-
-<hr/>
 
 
 
