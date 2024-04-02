@@ -7,7 +7,7 @@
 ## GitHub Stats! 📊
 [![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergiowani&show_icons=true&theme=merko)](https://github.com/sergiowani/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiowani&layout=compact&theme=merko)](https://github.com/sergiowani/github-readme-stats)
 
-
+## Thank You!
 
 
 
