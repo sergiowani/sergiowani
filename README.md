@@ -4,7 +4,7 @@
 
 ## About me
 
-
+[![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergiowani&show_icons=true&theme=merko)](https://github.com/sergiowani/github-readme-stats)
 
 
 
