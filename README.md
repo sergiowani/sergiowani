@@ -3,11 +3,14 @@
 
 <hr/>
 ## About me! 😉
+🟨I am passionate about the world of programming because it allows me to create things out of nothing.🟥
 <hr/>
 
 ## Get in Touch! 📫
-<a href="https://www.linkedin.com/in/sergiowani/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn Sergio-%2357AB32?style=flat&logo=linkedin"></a>
-<a href="mailto:sergiowani@outlook.es" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/sergiowani%40outlook.es-%23E03EA4"></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/sergiowani/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn Sergio-%2357AB32?style=flat&logo=linkedin"></a>
+  <a href="mailto:sergiowani@outlook.es" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/sergiowani%40outlook.es-%23E03EA4"></a>
+</div>
 <hr/>
 
 ## GitHub Stats! 📊
