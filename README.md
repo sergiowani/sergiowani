@@ -1,6 +1,7 @@
 <img src="https://sergiowani.github.io/public/images/banner.png" />
 <h1 align="center">Hi! I am <a href="https://sergiowani.github.io/">Sergio</a>👋</h1>
 <a href="https://www.linkedin.com/in/sergiowani/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn Sergio-%2357AB32?style=flat&logo=linkedin"></a>
+<a href="mailto:sergiowani@outlook.es" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/sergiowani%40outlook.es-%23E03EA4"></a>
 
 ## About me! 😉
 
