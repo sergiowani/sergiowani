@@ -13,11 +13,15 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/SASS-%2397D742?logo=sass">
   <img alt="Static Badge" src="https://img.shields.io/badge/BOOTSTRAP-%23FFEE9B?logo=bootstrap">
   <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-%23FFFFFF?logo=typescript">
+</div>
+<div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23F8BA43?logo=javascript">
   <img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-%23E03EA4?logo=nodedotjs">
   <img alt="Static Badge" src="https://img.shields.io/badge/EXPRESS-%2397D742?logo=express">
   <img alt="Static Badge" src="https://img.shields.io/badge/REACT-%2357AB32?logo=react">
   <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-%23FFFFFF?logo=mysql">
+</div>
+<div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/GIT-%23F8BA43?logo=git">
   <img alt="Static Badge" src="https://img.shields.io/badge/CHAT%20GPT-%235DAB36?logo=openai">
   <img alt="Static Badge" src="https://img.shields.io/badge/TRELLO-%23F8BA43?logo=trello">
