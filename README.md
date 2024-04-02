@@ -1,7 +1,6 @@
-<div align="center">
 <h1 align="center">Hi! I am <a href="https://sergiowani.github.io/">Sergio</a>👋</h1>
+<img src="https://sergiowani.github.io/public/images/banner.png" />
 ### About me
-</div>
 <!--
 **sergiowani/sergiowani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
