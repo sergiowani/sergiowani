@@ -35,7 +35,7 @@
 </div>
 
 ## GitHub Stats! 📊
-[![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergiowani&show_icons=true&theme=merko)](https://github.com/sergiowani) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=merko)](https://github.com/sergiowani)
+[![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergiowani&show_icons=true&theme=merko)](https://github.com/sergiowani) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiowani&layout=compact&theme=merko)](https://github.com/sergiowani)
 
 
 ## Thank You! 🤙
