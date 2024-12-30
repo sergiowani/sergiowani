@@ -30,11 +30,16 @@
 </div>
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-%23F8BA43?logo=python">
-
   <img alt="Static Badge" src="https://img.shields.io/badge/ANACONDA-%23E03EA4?logo=anaconda">
   <img alt="Static Badge" src="https://img.shields.io/badge/JUPYTER-%2397D742?logo=jupyter">
   <img alt="Static Badge" src="https://img.shields.io/badge/PANDAS-%2357AB32?logo=pandas">
   <img alt="Static Badge" src="https://img.shields.io/badge/SCIKIT-%23FFFFFF?logo=scikitlearn">
+</div>
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/FOLIUM-%23F8BA42?logo=folium">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PLOTLY-%23E03EA4?logo=plotly">
+  <img alt="Static Badge" src="https://img.shields.io/badge/DASH-%2397D742?logo=dash">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SCIPY-%23FFEE9B?logo=scipy">
 </div>
 
 
