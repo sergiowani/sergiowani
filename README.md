@@ -28,6 +28,15 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/FIGMA-%23FAEB9A?logo=figma">
   <img alt="Static Badge" src="https://img.shields.io/badge/MUI-%2357AB32?logo=mui">
 </div>
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-%23F8BA43?logo=python">
+
+  <img alt="Static Badge" src="https://img.shields.io/badge/ANACONDA-%23E03EA4?logo=anaconda">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JUPYTER-%2397D742?logo=jupyter">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PANDAS-%2357AB32?logo=pandas">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SCIKIT-%23FFFFFF?logo=scikitlearn">
+</div>
+
 
 ## Get in Touch! 📫
 <div align="center">
