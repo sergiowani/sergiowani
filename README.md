@@ -26,7 +26,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/CHAT%20GPT-%235DAB36?logo=openai">
   <img alt="Static Badge" src="https://img.shields.io/badge/TRELLO-%23F8BA43?logo=trello">
   <img alt="Static Badge" src="https://img.shields.io/badge/FIGMA-%23FAEB9A?logo=figma">
-  <img alt="Static Badge" src="https://img.shields.io/badge/MUI-%007FFF?logo=mui">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MUI-%2357AB32?logo=mui">
 </div>
 
 ## Get in Touch! 📫
